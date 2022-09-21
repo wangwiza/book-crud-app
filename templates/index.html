@@ -49,6 +49,79 @@
                             
                         </tr>
 
+                        <!-- Modal Edit Book -->
+
+<div id="modaledit" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+
+                <h4 class="modal-title">Something changed about the book?</h4>
+            </div>
+            <div class="modal-body">
+
+                <form action="" method="POST">
+
+                    <div class="form-group">
+
+                        <label>Title:</label>
+                         <input type="hidden" name="id" value="id">
+
+
+                        <input type="text" class="form-control" name="title" value="Big Gods">
+
+
+                    </div>
+
+                    <div class="form-group">
+
+
+                        <label>Author:</label>
+                        <input type="text" class="form-control" name="name" value="Norenzayan">
+
+                    </div>
+
+                    <div class="form-group">
+
+
+                        <label>Year:</label>
+                        <input type="number" class="form-control" name="year" value="2013">
+
+
+                    </div>
+
+                    <div class="form-group">
+                    
+                    
+                        <label>Status:</label>
+                        <input type="text" class="form-control" name="status" value="Read">
+                    
+                    
+                    </div>
+
+
+                    <div class="form-group">
+
+
+                        <button class="btn btn-primary" type="submit">Update</button>
+
+
+                    </div>
+
+
+                </form>
+            </div>
+
+            <div class="modal-footer">
+
+
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+
+    </div>
+</div>
 
 
                     </table>
@@ -94,6 +167,14 @@
 
                     </div>
 
+                    <div class="form-group">
+                    
+                    
+                        <label>Status:</label>
+                        <input type="number" class="form-control" name="phone" required="1">
+                    
+                    
+                    </div>
 
                     <div class="form-group">
 
