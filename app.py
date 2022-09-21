@@ -1,10 +1,13 @@
 from flask import Flask, render_template
+from flask_sqlalchemy import SQLAlchemy
 
 
 
 
 app = Flask(__name__)
+app.secret_key = "Secret Key"
 
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:''@localhost/crud'
 
 @app.route('/')
 def Index():
