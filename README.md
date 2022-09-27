@@ -30,7 +30,7 @@
 <h3 align="center">Book List CRUD App</h3>
 
   <p align="center">
-    Creating a web app connected to a database of all the books I've read.
+    Creating a web app connected to a database of (almost) all the books I've read.
     <br />
     <a href="https://github.com/wangwiza/book-list-crud"><strong>Explore the docs »</strong></a>
     <br />
@@ -69,17 +69,18 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 <p align="center">
-  <img src="" width="600px" />
+  <img src="src/homepage.png" width="100%" />
 </p>
 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `wangwiza`, `book-list-crud`, `twitter_handle`, `willzawang`, `email_client`, `email`, `C++ & Arduino`, `Learning C++ basics through arduino circuits.`
+This project served to learn and experiment with web development tools such as html syntax, Javascript frameworks, Flask microframework, and MySQL databases. I also learned how to close my GitHub repo to a local directory, and the general workflow with git commands. I also learned about the CRUD concept.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Create, Read, Update, Delete
 
 
 ### Built With
