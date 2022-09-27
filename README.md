@@ -82,6 +82,15 @@ This project served to learn and experiment with web development tools such as h
 
 ## Create, Read, Update, Delete
 
+<p align="center">
+  <img src="src/create.gif" width="100%" />
+</p>
+<p align="center">
+  <img src="src/update.gif" width="100%" />
+</p>
+<p align="center">
+  <img src="src/delete.gif" width="100%" />
+</p>
 
 ### Built With
 
