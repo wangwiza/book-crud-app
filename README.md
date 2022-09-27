@@ -23,9 +23,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/wangwiza/book-list-crud">
-    <img src="" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Book List CRUD App</h3>
 
